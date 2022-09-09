@@ -1,6 +1,6 @@
 # kartvizit
 
-A new Flutter project.
+A new Flutter projectKisilerin kartvizitlerin fotosunu cekiğ, kesmesini ve kaydetmesine olanak sağlayan, Kendi profil kartvizitini oluşturmasını ve onu paylaşması sağlanan bir uygulmadır
 
 ## Getting Started
 
